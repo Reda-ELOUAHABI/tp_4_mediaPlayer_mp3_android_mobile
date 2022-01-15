@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlternativeRes</string>
+    <string name="visualizer_le_cycle_de_vie">Visualizer le cycle de vie !</string>
+    <string name="list">list</string>
+    <string name="exit">exit</string>
+    <string name="stop">stop</string>
+    <string name="start">Start</string>
+</resources>
